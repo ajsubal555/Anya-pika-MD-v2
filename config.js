@@ -21,29 +21,29 @@ global.lApiKey = [ // if this API key get expired then please go to https://api.
 ]
 
 
-global.botname = "Queen Anya" 
-global.author = "𝙋𝙄𝙆𝘼"  
-global.packname = "𝙌𝙐𝙀𝙀𝙉✯𝘼𝙉𝙔𝘼✯𝘽𝙊𝙏"  
-global.myweb = "https://github.com/PikaBotz" // You can put any link 
-global.waterMark = "×͜× King ✘ Pika™ ✓" // Your own watermark 
-global.footer = "© Queen Anya Bot"
-global.prefa = ['-'] // single prefix
+global.botname = "LUFFY BOT" 
+global.author = "ARJUN"  
+global.packname = "ARJUN LUFFY BOT"  
+global.myweb = "https://github.com/ajsubal555" // You can put any link 
+global.waterMark = "×͜× King ✘ ARJUN™ ✓" // Your own watermark 
+global.footer = "© ARJUN Bot"
+global.prefa = ['.'] // single prefix
 global.themeemoji = '🔥'
 global.socialText = `*⪧⪢ Please join this group for by bot's announcement.*`
 global.socialLink = `*⪧⪢ https://chat.whatsapp.com/HshHS6kHF9NHnA9lfMwwSM 💝*`
 
 
-global.ownername = "𝕻𝖎𝖐𝖆♰𝕶𝖚𝖓"   // Owner name //        
-global.ownernumber = ['918811074852'] 
-global.socialm = "𝗜𝗻𝘀𝘁𝗮 : 3.69_pika" // 𝗜𝗻𝘀𝘁𝗮 : || 𝗚𝗶𝘁𝗵𝘂𝗯 : || 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸 : \\
-global.ytname = "YT: Ytname"   // Yt chanel name //
+global.ownername = "ARJUN Upadhyay"   // Owner name //        
+global.ownernumber = ['918005453017'] 
+global.socialm = "𝗜𝗻𝘀𝘁𝗮 : arjunupadhyay555" // 𝗜𝗻𝘀𝘁𝗮 : || 𝗚𝗶𝘁𝗵𝘂𝗯 : || 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸 : \\
+global.ytname = "YT: a plus creation and information studio"   // Yt chanel name //
 global.continent = "Asia" // your continent name 
 global.region = "India" // your country name
-global.state = "Assam" // your state name
-global.district = "Dibrugarh" // your district name
+global.state = "up" // your state name
+global.district = "varai" // your district name
 global.timezone = "Asia/Kolkata" // search on google if you don't know the timezone of your country //
-global.instagramId = "3.69_pika" // Your insta ID
-global.email = "example@exmaple.com" // put your email here
+global.instagramId = "arjunupadhyay554" // Your insta ID
+global.email = "wtour2255@gmail.com" // put your email here
 
 
 // Greeting messages
@@ -54,8 +54,8 @@ global.greet4 = "Good night 😴" // after 8:30 PM
 
 
 //------------ 🌟 Premium Users 🌟-------------\\
-global.premium = ['916900******','917355******']  // available soon
-global.sudo = ['916900******','91881107****']  // Co - Owners
+global.premium = ['918005453017','91735573228']  // available soon
+global.sudo = ['917355573228','918005453017']  // Co - Owners
 
 
 //--------------- Tip ----------------\\
@@ -74,7 +74,7 @@ global.allmenuImg = fs.readFileSync('./AnyaPikaMedia/theme/Commandsimgs/Allmenu.
 global.autoTyping = false 
 global.autoreadpmngc = false 
 global.autoReadGc = false 
-global.autoRecord = false 
+global.autoRecord = true
 global.available = true
 global.autoTyping = false 
 
